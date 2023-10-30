@@ -1,6 +1,6 @@
 # CCFRP-Angler-Survey-Publication
 
-    > Please email ejohn122@calpoly.edu with questions and comments regarding these materials and to request permission to use these data. 
+     Please email ejohn122@calpoly.edu with questions and comments regarding these materials and to request permission to use these data. 
 
 This repository includes data and code that support the 2023 CCFRP Angler Survey manuscript titled:
 
